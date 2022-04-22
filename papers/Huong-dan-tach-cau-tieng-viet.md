@@ -2,10 +2,10 @@
 
 ## Tiền đề cơ sở để tách câu: 
 
-Theo sách ngữ pháp tiếng Việt của Uỷ ban Khoa học Xã hội (1980): "Câu
+Theo sách ngữ pháp tiếng Việt của Uỷ ban Khoa học Xã hội (1980): _"Câu
 là đơn vị dùng từ hay đúng hơn dùng ngữ mà cấu tạo nên trong quá trình tư
 duy, thông báo; nó có nghĩa hoàn chỉnh, có cấu tạo ngữ pháp, và có tính chất
-độc lập". Dựa vào quan điểm này về câu ta sẽ xét một đơn vị ngôn ngữ có phải
+độc lập"_. Dựa vào quan điểm này về câu ta sẽ xét một đơn vị ngôn ngữ có phải
 là câu hay không. 
 
 ## Mục tiêu: 
