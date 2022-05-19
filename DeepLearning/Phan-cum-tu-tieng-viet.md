@@ -15,7 +15,7 @@ về ngữ pháp trong các sản phẩm ứng dụng tiếng Việt đòi hỏi
 
 Qua khảo sát ngôn ngữ tiếng Việt, chúng ta xác định những tập nhãn cho việc
 phân cụm là hữu ích đối với bài toán này. Chúng ta chỉ đưa ra những tập nhãn
-chuẩn và xuất hiện nhiều trong câu văn tiếng Việt. Từ đó, chúng tôi đưa ra
+chuẩn và xuất hiện nhiều trong câu văn tiếng Việt. Từ đó, chúng ta đưa ra
 bộ nhãn của việc phân cụm từ tiếng Việt bao gồm như sau:
 
 | Tên | Chú thích |
