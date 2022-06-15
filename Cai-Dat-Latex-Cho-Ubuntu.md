@@ -22,6 +22,7 @@ sudo apt-get install gummi
 tee -a /tmp/test.tex << END
 > \documentclass[a4paper,11pt]{article}
 > \usepackage[utf8]{vietnam}
+> \usepackage{amsmath}
 > \begin{document}
 > \title{Dùng tiếng Việt (UTF-8) trong \LaTeX}
 > \maketitle
