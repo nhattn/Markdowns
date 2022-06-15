@@ -29,6 +29,7 @@ tee -a /tmp/test.tex << END
 > \subsection{Tiểu tiêu đề}
 > Một vài đoạn văn bản
 > 
+> Một phương trình nổi tiếng của vật lý học $ E=mc^2 $ hay phương trình bậc hai $ ax^2 + bx + c = 0 $
 > \end{document}
 > END
 ```
